@@ -1,0 +1,16 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1",
+  "FriendlyName": "ZhongGu P0 Rules",
+  "Description": "P0 core rules only; no playable level.",
+  "Category": "Gameplay",
+  "CanContainContent": false,
+  "Modules": [
+    {
+      "Name": "ZhongGuP0",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
